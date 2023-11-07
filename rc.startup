@@ -1,0 +1,7 @@
+ip a add 192.168.100.34/28 dev eth3
+
+ip a add 192.168.3.21/30 dev eth1
+
+ip a add 192.168.3.25/30 dev eth2
+
+ip a add 192.168.3.18/30 dev eth0
