@@ -7,3 +7,5 @@ ip a add 192.168.3.13/30 dev eth2
 ip a add 192.168.3.38/30 dev eth3
 
 ip a add 192.168.3.17/30 dev eth4
+
+/etc/init.d/quagga start
